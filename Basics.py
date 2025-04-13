@@ -1,5 +1,4 @@
 # print("Helllo HCIA PDTP-Huawei Team")
-
 num1 = 12
 num2 = 8
 sum = num1 + num2
